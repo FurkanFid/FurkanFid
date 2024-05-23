@@ -1,16 +1,17 @@
-## Hi there 👋
+# Muhammed Furkan Fidan
 
-<!--
-**FurkanFid/FurkanFid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring software developer with a degree in Computer Programming. Experienced in system maintenance, software support, data security, and technical support. Intermediate in Swift, C#, and Python. Always learning and growing.
 
-Here are some ideas to get you started:
+## Skills
+- **Programming Languages:** Swift, C#, Python
+- **Other IT Skills:** Network management, System analysis, Technical support
+- **Software Development Tools:** Git, Visual Studio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages
+- **English:** Advanced
+- **Russian:** Basic
+- **German:** Basic
+
+## Contact
+- **Email:** [furkanfidan08@gmail.com](mailto:furkanfidan08@gmail.com)
+- **LinkedIn:** [linkedin.com/in/muhammedfurkanfidan](https://linkedin.com/in/muhammedfurkanfidan)
